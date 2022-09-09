@@ -2,7 +2,7 @@
 
 <p align="center">
 <img alt="ReactJS Rocketseat" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc2fd7c29-54f4-45c2-95fa-b9fa269109b8%2Freactjs.png?table=block&id=51e4099a-6e2f-4d4b-ae94-f9fe75bb769d&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=250&userId=&cache=v2" width="200" hspace="50" align="center"/>
-<img alt="Desafio 02 - Upload de imagens" src="src/assets/logo.png" align="center" width="400"/>
+
 
 </p>
 
@@ -22,38 +22,6 @@ Essa será uma aplicação onde o seu principal objetivo é adicionar alguns 
 - Exibição de Modal e Toast com Chakra UI;
 - Entre outros.
 
-A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
-
-## Layout da Aplicação
-
-|              Home              |
-| :----------------------------: |
-| ![home](./src/assets/home.png) |
-
-<br>
-
-|            Form            |
-| :------------------------: |
-| ![](./src/assets/form.png) |
-
-<br>
-
-|            Image            |
-| :-------------------------: |
-| ![](./src/assets/image.png) |
-
-## Imagens
-
-<div>
-   <p>Home</p>
-   <img src="./src/assets/image-1.png" />
-   <br>
-   <p>Form</p>
-   <img src="./src/assets/image-2.png" />
-   <br>
-   <p>Imagem</p>
-   <img src="./src/assets/image-3.png" />
-</div>
 
 ## :rocket: Techs
 
@@ -68,4 +36,4 @@ A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
   <li> FaunaDB </li>
   <li> API do Next.js </li>
 </ul>
-# ignite-reactjs-upload-de-imagens
+
